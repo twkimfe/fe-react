@@ -1,8 +1,6 @@
 import React from "react";
 import "../src/css/2-5.css";
 
-import ReactDOM from "react-dom";
-
 const App = () => {
   const roundBoxStyle = {
     position: "absolute",
