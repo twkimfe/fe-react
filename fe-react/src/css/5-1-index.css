@@ -5,3 +5,10 @@ input {
   margin-bottom: 20px;
   margin-right: 20px;
 }
+
+.box {
+  width: 250px;
+  height: 100px;
+  background: #6666ffaa;
+  margin-bottom: 20px;
+}
