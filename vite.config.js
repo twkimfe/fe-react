@@ -7,7 +7,7 @@ export default defineConfig({
   plugins: [react()],
   resolve: {
     alias: {
-      "/src/main.jsx": resolve(__dirname, "src/index.jsx"),
+      "/src/main.jsx": resolve(__dirname, "src/main.jsx"),
     },
   },
 });
